@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tutorial-07</string>
+
+    <string-array name="city">
+        <item><font color="#85FFEB3B">Select City</font></item>
+        <item><font color="#FFEB3B">Syrat</font> </item>
+        <item><font color="#FFEB3B">Ahmedabad</font> </item>
+        <item><font color="#FFEB3B">Bhavnagar</font> </item>
+        <item><font color="#FFEB3B">Junagadh</font> </item>
+        <item><font color="#FFEB3B">Surat</font> </item>
+        <item><font color="#FFEB3B">Rajkot</font> </item>
+    </string-array>
+</resources>
