@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void Login(View view) {
+    public void LoginHere(View view) {
         if (!LoginValidation())
             return;
 
@@ -80,4 +80,5 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
         finish();
     }
+
 }
